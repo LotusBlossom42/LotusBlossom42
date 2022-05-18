@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://lotusblossom42.github.io/my-app/
+[Check out my site](https://lotusblossom42.github.io/my-app/)
 
 <!--
 **LotusBlossom42/LotusBlossom42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
